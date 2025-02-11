@@ -4,13 +4,13 @@
 
 # Smart Methods - Engineering Day
 
-Welcome to the Smart Methods Engineering Day webpage! This project is a visually appealing landing page designed to introduce Smart Methods to users and provide easy access to various social media platforms and other resources. The page is designed with a clean, modern layout, and features responsive design to ensure it works seamlessly across devices.
+Welcome to the Smart Methods! This project is a visually appealing landing page designed to introduce Smart Methods to users and provide easy access to various social media platforms and other resources. The page is designed with a clean, modern layout, and features responsive design to ensure it works seamlessly across devices.
 
 --- 
 
 ## Project Overview
 
-The Smart Methods Engineering Day page provides information and direct access to the company's digital presence. Visitors can find links to the Smart Methods website, LinkedIn, Twitter (X), YouTube, Instagram, and location.
+The Smart Methods page provides information and direct access to the company's digital presence. Visitors can find links to the Smart Methods website, LinkedIn, Twitter (X), YouTube, Instagram, and location.
 
 ---
 
@@ -52,27 +52,18 @@ Alternatively, you can use any code editor (e.g., VS Code, Sublime Text, etc.) t
 ---
 
 
-/smart-methods-engineering-day
-│
-├── index.html          # Main HTML file with structure and links
-├── style.css           # Custom styles for the webpage
-├── images/             # Folder for logo and background images
-│   ├── SM.jpg          # Company logo image
-│   └── h7r.jpg         # Background image
-└── icons/              # Folder for social media icons
-    ├── icons8-website-64.png
-    ├── 1920528_linkedin_logo_network_social_icon.png
-    ├── tttttt.png
-    ├── icons8-youtube-48.png
-    ├── 6929237_instagram_icon.png
-    └── icons8-google-maps-48.png
 
 
----
+## Test webpage :
+
+![Image](https://github.com/user-attachments/assets/44be621b-fee1-4490-a214-4d95bcdcaf04)
+
+
+![Image](https://github.com/user-attachments/assets/7455a764-5b00-4a91-9c94-465c6cd2fc8d)
+
+
 
 ## How to Use
-
----
 
 - **Social Media Links**: The page provides direct access to Smart Methods’ social media platforms via buttons that are styled for easy access.
 - **Website Navigation**: Visitors can explore the Smart Methods website, LinkedIn, Twitter, YouTube, Instagram, and Google Maps locations.
