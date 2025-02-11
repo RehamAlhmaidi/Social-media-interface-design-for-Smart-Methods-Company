@@ -39,8 +39,8 @@ To run this project locally, follow these steps:
 
 
 2. Navigate to the project folder:
-
-cd smart-methods-engineering-day
+   ```bash
+   cd smart-methods-engineering-day
 
 
 3. Open the html file in your preferred browser to view the webpage.
@@ -49,8 +49,10 @@ Alternatively, you can use any code editor (e.g., VS Code, Sublime Text, etc.) t
 
 ---
 
-File Structure :
 
+## File Structure 
+
+```plaintext
 /smart-methods-engineering-day
 │
 ├── index.html          # Main HTML file with structure and links
@@ -67,10 +69,11 @@ File Structure :
     └── icons8-google-maps-48.png
 
 
+
 ---
 
-How to Use :
+## How to Use :
 
-- Social Media Links: The page provides direct access to Smart Methods’ social media platforms via buttons that are styled for easy access.
-- Website Navigation: Visitors can explore the Smart Methods website, LinkedIn, Twitter, YouTube, Instagram, and Google Maps locations.
-- Mobile-Friendly: The design adapts for smaller screens, ensuring that it’s fully responsive.
+- **Social Media Links**: The page provides direct access to Smart Methods’ social media platforms via buttons that are styled for easy access.
+- **Website Navigation**: Visitors can explore the Smart Methods website, LinkedIn, Twitter, YouTube, Instagram, and Google Maps locations.
+- **Mobile-Friendly**: The design adapts for smaller screens, ensuring that it’s fully responsive.
