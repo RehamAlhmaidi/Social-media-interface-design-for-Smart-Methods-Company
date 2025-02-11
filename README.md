@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-methods-engineering-day.git
+   git clone [https://github.com/your-username/smart-methods-engineering-day.git](https://github.com/RehamAlhmaidi/Social-media-interface-design-for-Smart-Methods-Company.git)
 
 
 2. Navigate to the project folder:
