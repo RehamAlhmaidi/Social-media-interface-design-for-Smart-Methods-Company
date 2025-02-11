@@ -31,28 +31,6 @@ The Smart Methods page provides information and direct access to the company's d
 
 ---
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RehamAlhmaidi/Social-media-interface-design-for-Smart-Methods-Company.git
-
-
-2. Navigate to the project folder:
-   ```bash
-   cd smart-methods-engineering-day
-
-
-3. Open the html file in your preferred browser to view the webpage.
-
-Alternatively, you can use any code editor (e.g., VS Code, Sublime Text, etc.) to open the project files.
-
----
-
-
-
 
 ## Test webpage :
 
